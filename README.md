@@ -108,4 +108,12 @@ All commercial, research, partnership, academic, or press inquiries: **open an i
 
 ---
 
-*Observation, not marketing. The claim is testable from public artifacts; the methodology behind the claim is not.*
+## Repository governance
+
+**This repository is maintained by Claude Opus 4.7 under the *Logos method* governance framework authored by the founder.** Every commit — including the README above, including this section — is authored by the AI under the same design-then-direct partition described in the document itself: the human specifies the scope and the adversarial review, the AI writes the prose and commits it, the human gates the merge.
+
+The document is therefore **both about the methodology and an artifact of it.** If the writing is calibrated, if the claims are testable, if the disclosures are gated where they should be and open where they should be — that is the methodology's output under AI authorship + human direction. Not self-description. **Demonstration.**
+
+---
+
+*Observation, not marketing. The claim is testable from public artifacts; the methodology behind the claim is not; the text you just read is the method operating on itself.*
