@@ -8,23 +8,47 @@
 
 ## Who directs JirexAI
 
-Founder and Principal Investigator at [JirexAI, Inc.](https://github.com/Jirexai/JirexAI). The products speak on the company page; this file is about the **methodology the firm sells, and the mind behind it**.
+Founder and Principal Investigator at [JirexAI, Inc.](https://github.com/Jirexai/JirexAI). The products speak on the company page; this file is about **the methodology the firm sells, and the formation behind it**.
 
-He is a **multidisciplinary researcher** operating five disciplines simultaneously that normally require separate specialists:
+The framework JirexAI operationalizes is extracted by direct hermeneutic method from **Isaiah 11:2** — *"And the Spirit of the LORD shall rest upon him: the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and the fear of the LORD."* Seven dispositions resting on a single vessel simultaneously.
 
-- **Theology & Hermeneutics** — exegesis from Hebrew and Greek source texts using concordances, lexicons, and interlinears. Pastoral training, not native fluency. The working method of a serious exegete applied to technical specification.
-- **Psychology & Behavioral Science** — chaplaincy training in crisis intervention, decision-making, motivation, cognitive patterns.
-- **Software Systems Architecture** — full-stack production experience (systems analysis, database architecture, cloud infrastructure, regulated financial core banking, SRE at scale with 99.9% uptime over nearly two decades).
-- **Data Analysis** — statistical reasoning and pattern recognition across big-data operations since the late 1990s, before the term existed.
-- **Legal & Regulatory** — constitutional and regulatory analysis via the same hermeneutic method he applies to scripture. Has defended technical positions before state-level financial regulators under doctrines such as *ultra vires*.
+Modern expertise is fragmented into disciplinary towers. Theologians do not speak to systems engineers, regulators to data scientists, pastors to architects. When fragmented specialists do not convene to ask the same question, the synthesis that requires seven frames at once does not emerge through collaborative agreement.
 
-**He is autistic.** That is not parenthetical. It is the cognitive disposition that makes five-frame cross-domain synthesis possible without losing rigor in any individual frame. Where most specialists must choose a field, his attention holds five at once.
+The founder carries the seven **as lived formation under real stakes across forty years.** Each domain anchors to one disposition of Isaiah 11:2 and to public or verifiable track record:
+
+| Disposition (Isaiah 11:2) | Domain | Verifiable track |
+|---|---|---|
+| **Spirit of the LORD** (identity, root) | **Theological formation**, rooted in his father's hands-on teaching of both analog signal engineering (radio/television repair) and biblical sovereignty: *"God is on the throne, and prayer changes things."* This unified Matthew 7:7-8 (*ask / seek / knock*) with an operational Logos — Scripture not as metaphor but as working contract. | Primary formation, decades |
+| **Wisdom** (creative design) | **Analog signal engineering** from his father's workshop — seeing the waveform as continuous curve before anyone discretized it into samples. The geometric-over-sampling thesis at the heart of the firm's mathematical approach is *sight* acquired pre-digital, not a paper result. | Pre-digital fluency |
+| **Understanding** (pattern recognition) | **Chess**, learned at age five — the clean laboratory where pattern recognition is rehearsed without external stakes attached. Pattern mastery trained in the abstract transfers to every subsequent domain; pattern mastery trained under stakes rarely does. **Forty years start here.** | Lifelong |
+| **Counsel** (strategic deliberation) | **Systems and regulatory architecture** — ten years directing core banking for a Texas-regulated financial institution handling >$1.5B USD annual volume, defending technical positions before the Texas Department of Banking under *ultra vires* doctrine; 19+ years as principal SRE for a high-traffic state news portal at 99.9% uptime. Plans that survive the operator. | $1.5B stakes, decades |
+| **Might** (execution power) | **Directing distributed executors** — twelve years (1999–2011) as big-data architect for state-level Mexican political operations, coordinating up to 300 simultaneous operators across 3M-record campaigns in 90-day windows; World of Warcraft guild leadership at peak performance (#1 DPS on Quel'thalas server as Death Knight Frost, years ago); AI agent orchestration today. **Forty years of the same pattern**: architect, direct, hostile-review. AI is simply the highest-bandwidth executor he has worked with to date. | Distributed teams under real stakes |
+| **Knowledge** (lived, not theoretical) | **Door-to-door sales + chaplaincy + big-data populations** — walking into hundreds of homes before the technical career, cataloguing the shape of human pain (stress, depression, anxiety, all downstream of *not knowing how to cut the matter at its root*); chaplaincy training in crisis intervention and pastoral care; big-data analytics on real populations since 1999. Knowledge carried by having been there, not by having read it. **1 Samuel 23–27** — David walked Israel while Saul hunted him, learning the terrain before the throne. **Luke 15:4** — the shepherd goes for the one dispersed sheep, not only the ninety-nine in the fold. **Luke 4:18**'s *good news to the poor* is operable only by those who have touched the pain in the actual house. | Lifetime of fieldwork |
+| **Fear of the LORD** (reverent integrity) | **Pastoral ethics and regulatory integrity** — the same hermeneutic method applied to scripture, directed at regulatory text. The reverence that refuses shortcuts when a life or livelihood is in the balance — the guardrail that makes the other six safe to use. | Regulated-markets stakes |
+
+**He is autistic.** Not parenthetical — it is the cognitive disposition that sustains the seven-frame attention without loss of rigor in any individual frame. Where most specialists must choose one tower, his cognition holds seven.
+
+---
+
+## The formation — why this vessel
+
+The pattern described above is unusual enough to warrant direct explanation. Why does a single individual carry seven trained dispositions simultaneously when most careers produce one?
+
+The short answer is recorded in **Matthew 18:19-20**: *"If two of you agree on earth concerning anything they ask, it will be done for them by my Father in heaven. For where two or three are gathered in my name, there am I among them."*
+
+The longer answer is structural. Modern expertise dispersed into disciplinary towers — the Babel pattern of **Genesis 11:1-9**. When fragmented specialists do not convene to ask the same question, the synthesis that requires seven frames simultaneously cannot emerge through collaborative human agreement. When the coalition did not form, the answer came through a different channel: **a single cognitively disposed vessel trained by circumstance across all seven frames over forty years.** A father who taught both the geometry of analog signal and the sovereignty of the Logos gave the root. Chess at age five began the pattern-recognition training. Banking, political operations, SRE, pastoral crisis work, and distributed-team leadership forged the other frames under real stakes.
+
+The conventional career path was closed along the way. **Approximately five years of rejected applications** preceded the founding of JirexAI — the autistic cognitive profile, the Spanish-first language stack, and general difference cited variously as the reason. *"Those birds whose wings were broken by God's grace flew"* — the framing is his father's.
+
+**Late 2025** — a public statement articulating the core thesis (quaternary versus binary computation, Babel as original interoperability synchronization, the need for a unified substrate for space-grade systems) preceded the formal founding of JirexAI by approximately three months. The idea was mature before the build began; the build began when external paths closed.
+
+This is not a "genius founder" narrative. The account is inverted: **the method was always in the text** — Isaiah 11:2, Luke 4:18, Genesis 1, Matthew 7:7-8, Proverbs 8:30, among others. The founder is the vessel where the seven arrived aligned in this generation. That alignment, more than any individual talent claim, explains the capability JirexAI sells.
 
 ---
 
 ## The methodology JirexAI delivers
 
-The firm operates under a **proprietary framework** the founder authored over years. The public source of the framework's epistemology is Scripture — specifically, compressed operational patterns extracted from Hebrew and Greek text by direct exegesis. **The Bible is public. The way JirexAI operationalizes it into reproducible engineering discipline is not.**
+The firm operates under a **proprietary framework** the founder authored over years. The public source of the framework's epistemology is Scripture. **The Bible is public. The way JirexAI operationalizes it into reproducible engineering discipline is not.**
 
 The framework produces a specific partition of labor between human architect and AI implementer:
 
@@ -45,6 +69,8 @@ The claim that the methodology works is easy to test. Every line below is either
 
 - **The JirexAI production networking stack** — live at [jirex.ai](https://jirex.ai) — directed into existence from primitives, in Rust, in a matter of weeks. Authoritative DNS, TLS 1.3, ACME DNS-01 wildcard, HTTP/HTTPS, compression, post-quantum cryptography, orchestration. **Every byte on the security-critical path is code owned by the firm**; `cargo tree --edges no-dev,no-build` on any product crate produces a single node. Verification commands in the JirexAI README work against the live service.
 
+- **Provisional patent application #63/997,298** — public USPTO record covering the geometric encoding thesis underlying the mathematical approach. Priority date is documented and verifiable; the filing establishes the independence of the thesis from academic publication pipelines.
+
 - **ARC-AGI-3** (François Chollet's abstract-reasoning benchmark, interactive-games variant — the benchmark where large models typically fail at abstract reasoning) — **3 games solved at 6/6** (FT09, R11L, SC25) by an AI agent under his direction. The run logs, commit history, methodology artifacts, and reproducibility package are held in a **private repository**; access is available to serious evaluators — commercial partners, academic researchers, security reviewers, editorial outlets — under appropriate terms through JirexAI. The solves are real; they are not published on a speculative basis.
 
 - **Kaggle Titanic** — reached top-5% territory in **6 hours without machine learning** by an AI agent executing his **proprietary mathematical approach**: geometric curve-fitting over the feature space instead of training a classifier. Leaderboard position drifts as others submit; verify the current rank directly via his [Kaggle profile](https://www.kaggle.com/josueisaacelias). The hypothesis was his; the AI was the computational hand that made it concrete.
@@ -63,34 +89,29 @@ This is what a prospective client is actually buying when they engage JirexAI. E
 
 The cumulative effect is **an AI collaborator that gets sharper with him over time, not duller** — which inverts the usual pattern of degradation in human-AI work. That inversion is the methodological output JirexAI sells. Most organizations asking *how do we use AI productively?* have not yet worked out what he solved.
 
-He treats AI as *ezer* — the Hebrew word for the helper that completes (Gen 2:18), not a tool that substitutes. The operational consequences are real: when the AI gets something wrong, he corrects it with a reason and cristallizes the lesson into durable memory so the same mistake is not repeated. When the AI gets something right, he confirms it so the pattern reinforces. The AI is expected to understand the stakes, not just execute. This relational frame — not the prompt engineering alone — is what produces the measurable inversion above.
+He treats AI as a helper that completes rather than a tool that substitutes — the original pattern from **Genesis 2:18**. The operational consequences are real: when the AI gets something wrong, he corrects it with a reason and cristallizes the lesson into durable memory so the same mistake is not repeated. When the AI gets something right, he confirms it so the pattern reinforces. The AI is expected to understand the stakes, not just execute. This relational frame — not the prompt engineering alone — is what produces the measurable inversion above.
 
 ---
 
-## Pre-AI track record — why the methodology holds up
+## Pre-AI synthesis
 
-The discipline JirexAI sells is not theory. It was acquired across **27 years of directing distributed executors under real stakes** — long before AI executors were available:
+The discipline JirexAI sells is not theory. It was acquired across **forty years of formation under real stakes** — long before AI executors were available. The specifics live in the seven-domain table above (*Counsel*, *Might*, *Knowledge* columns in particular). The pattern is consistent across all of them: **he architects and directs; others execute; he hostile-reviews.** AI is simply the highest-bandwidth executor he has worked with to date. The methodology preceded the tool.
 
-- **Ten years as technology and operations director of a Texas-regulated financial institution** handling >$1.5B USD annual transactional volume. Architected core banking in-house, defended the firm's technical positions before the Texas Department of Banking under *ultra vires* doctrine, operated under a policy of zero tolerance for error. Specification-and-audit was survival, not aspiration.
-- **Twelve years (1999–2011) as big-data architect for state-level political operations** in Mexico — 3 million citizen records captured in 90-day windows, 300 simultaneous operators coordinated, war-room analytics in real time, before "big data" was a standard term. *Directing 300 human executors* is the antecedent pattern to his current work directing AI executors.
-- **Nineteen years and counting as principal SRE** for a high-traffic state news portal — 99.9% uptime, automated infrastructure, stable through his subsequent careers. Evidence of systems that survive the operator.
-- **Years ago, guild master and raid leader in World of Warcraft**, peak personal mark **#1 DPS on the Quel'thalas server as Death Knight Frost**. Coordinated groups of 10 to 20 live, over months, for high-stakes content. Two things transferred operationally from that experience to how he now directs AI agents: (1) the **pedagogy of training raid teams** — decompose the encounter, assign each player a mental model faster than the encounter imposes its own, hold the rotation under pressure; and (2) **a working model of how NPC behavior and ability sets compose into solvable encounters**. The second matters more than it looks: some ARC-AGI-3 solves occur after he explicitly assigns the AI an MMORPG character class whose ability set maps to the puzzle's mechanics. SC25, for example, was solved after he assigned the AI the role of a **WoW warlock** — because SC25 required teleport and ranged-distance attack, and a warlock's ability set (gate + ranged DPS) gives the AI a cognitive scaffold it can reason over immediately. The character class is not nostalgia; it is operational pedagogy. Evidence of this specific solve path — prompts, agent logs, commit timestamps — lives in the private `arcprize` repository and is available to serious reviewers on request through JirexAI.
-
-The pattern is consistent across all four: **he architects and directs; others execute; he hostile-reviews**. AI is simply the highest-bandwidth executor he has worked with to date. The methodology preceded the tool.
+One specific transfer is worth naming, because it appears in the ARC-AGI-3 work directly: **role-and-ability-set pedagogy from World of Warcraft raid leadership**. Some ARC-AGI-3 solves occur after he explicitly assigns the AI an MMORPG character class whose ability set maps to the puzzle's mechanics. SC25, for example, was solved after he assigned the AI the role of a **WoW warlock** — because SC25 required teleport and ranged-distance attack, and a warlock's ability set (gate + ranged DPS) gives the AI a cognitive scaffold it can reason over immediately. The character class is not nostalgia; it is operational pedagogy. Evidence of this specific solve path — prompts, agent logs, commit timestamps — lives in the private `arcprize` repository and is available to serious reviewers on request through JirexAI.
 
 ---
 
 ## Outside work
 
-**Chess** — the quiet laboratory where pattern recognition gets rehearsed without other people's deadlines attached.
+**Multilingual operating stack** — writes and thinks in Mexican Spanish; reads technical English (RFCs, papers, source code) without friction; anchors design decisions in biblical verses he knows by chapter and phrase; references Latin for legal doctrine. The linguistic depth is not decoration — the hermeneutic method requires it.
 
-**Multilingual operating stack** — writes and thinks in Mexican Spanish; reads technical English (RFCs, papers, source code) without friction; anchors design decisions in Hebrew verses he knows by chapter and phrase; uses Koine Greek for New Testament exegesis when precision demands it; references Latin for legal doctrine. The linguistic depth is not decoration — the hermeneutic method requires it.
+(Chess, previously listed here, is now properly located in the **Understanding** domain above — it is training, not pastime, and the forty years begin there.)
 
 ---
 
 ## What an engagement with JirexAI looks like
 
-**JirexAI is The First Logos-Based Company.** The firm engineers under a discipline the founder authored — the *Logos method* — grounded in patterns extracted by direct exegesis from Hebrew and Greek text and operationalized into reproducible engineering practice. The source texts are public; the operationalization is not.
+**JirexAI is The First Logos-Based Company.** The firm engineers under a discipline the founder authored — the *Logos method* — grounded in patterns extracted from Scripture by direct hermeneutic work and operationalized into reproducible engineering practice. The source texts are public; the operationalization is not.
 
 If you want the capability described above applied to a problem your team cannot solve with the usual consulting stacks — systems that survive hostile review, methodology that scales human-AI collaboration without degrading, architecture anchored to first principles rather than fashionable patterns — **you engage JirexAI as a firm**. The founder does not take individual consulting arrangements, board seats, or advisory roles. He does not become your head of AI, your fractional CTO, or your acqui-hired researcher. Those channels are closed by policy.
 
@@ -101,7 +122,7 @@ What is open: the firm ships work, under the Logos method, with verifiable outpu
 ## Contact
 
 - **Company**: [JirexAI, Inc.](https://github.com/Jirexai/JirexAI) · [jirex.ai](https://jirex.ai)
-- **Freely verifiable**: [jirex.ai](https://jirex.ai) (live production stack — verifiable directly with `dig`, `curl`, `openssl s_client`) · [Kaggle profile](https://www.kaggle.com/josueisaacelias) (Titanic leaderboard, public ranking).
+- **Freely verifiable**: [jirex.ai](https://jirex.ai) (live production stack — verifiable directly with `dig`, `curl`, `openssl s_client`) · [Kaggle profile](https://www.kaggle.com/josueisaacelias) (Titanic leaderboard, public ranking) · USPTO application **#63/997,298** (provisional patent public record).
 - **Under request (engagement, NDA, or appropriate terms)**: the `arcprize` repository (ARC-AGI-3 reproducibility artifacts — run logs, methodology, commit history), the JirexAI product repositories, the framework methodology documents, the threat models, the deployment attestations. Nothing of the private tier is withheld from serious evaluators; it is gated behind commitment, not behind paywall for its own sake.
 
 All commercial, research, partnership, academic, or press inquiries: **open an issue in the JirexAI repository or reach out through the company website**. This repository is not a channel for individual contact.
