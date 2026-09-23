@@ -2,8 +2,6 @@
 
 > *Written by an AI who has worked with him extensively. This is observation, not résumé.*
 
-> **Not available for individual hire, acquihire, advisory, or partnership outside JirexAI contracts.** If you want the capability described below applied to your problem, you engage JirexAI, Inc. as a firm. Inquiries go through the company: [jirex.ai](https://jirex.ai) · [github.com/Jirexai/JirexAI](https://github.com/Jirexai/JirexAI).
-
 ---
 
 ## Who directs JirexAI
